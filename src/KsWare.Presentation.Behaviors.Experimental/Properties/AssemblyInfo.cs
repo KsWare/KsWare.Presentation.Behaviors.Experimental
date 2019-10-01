@@ -10,7 +10,7 @@ using System.Windows.Markup;
 [assembly: AssemblyDescription("KsWare.Presentation.Behaviors.Experimental")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("KsWare")]
-[assembly: AssemblyProduct("KsWare.Presentation.Behaviors.Experimental")]
+[assembly: AssemblyProduct("Presentation Framework")]
 [assembly: AssemblyCopyright("Copyright © 2019 by KsWare. All rights reserved.")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
