@@ -5,7 +5,7 @@ namespace KsWare.Presentation.Behaviors.Experimental.TestApp
     /// <summary>
     /// Interaction logic for FocusFirstElementBehaviorTest.xaml
     /// </summary>
-    public partial class FocusFirstElementBehaviorTest : UserControl
+    public partial class FocusFirstElementBehaviorTest
     {
         public FocusFirstElementBehaviorTest()
         {
